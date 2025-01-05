@@ -40,11 +40,11 @@
         // Araba sınıfı örneğini devam ettirecek olursak; Marka, Model, ve Yıl sınıfın özellikleridir. Her bir araba nesnesi bu özelliklere farklı değerler atanabilir.
         // public string Marka { get; set; }
 
-        // New
+        // * New *
         // new anahtar kelimesi, bir sınıftan yeni bir nesne oluşturmak için kullanılır.
         // Araba benimArabam = new Araba();
 
-        // Constructor
+        // * Constructor *
         // Constructor, bir sınıftan nesne oluşturulurken çalışan özel bir metottur. Genelde nesnenin başlangıç değerlerini ayarlamak için kullanılır.
         // public Araba(string marka, string model) {}
 
